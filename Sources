@@ -1,0 +1,39 @@
+Figures:
+     2.2.1 One Hot Encoding:
+        https://www.kaggle.com/dansbecker/using-categorical-data-with-one-hot-encoding
+    
+    3.6 Picking a Threshold:
+        https://www.biostat.wisc.edu/~page/decision-trees.pdf Page 8
+    
+    3.8.2 Disadvantages:
+        \cite{Gron:2017:HML:3153997}
+    
+    4.1 Cross-validation:
+        Automatic Segmentation of Indoor and Outdoor Scenes from Visual Lifelogging - Scientific Figure on ResearchGate. Available from: https://www.researchgate.net/An-example-of-a-10-fold-cross-validation-cro17_fig1_322509110 [accessed 10 Aug, 2018]
+
+    4.2 Confusion Matrix:
+        http://dni-institute.in/blogs/confusion-matrix-and-cost-matrix/
+
+Formulas:
+    3.4 Gini Impurity
+        \cite{Gron:2017:HML:3153997}
+    3.5 Cost Function
+        \cite{Gron:2017:HML:3153997}
+    4.3 Classification Measurements
+        \cite{Gron:2017:HML:3153997}
+
+
+
+Example
+    https://medium.com/deep-math-machine-learning-ai/chapter-4-decision-trees-algorithms-b93975f7a1f1
+
+
+
+@book{Gron:2017:HML:3153997,
+ author = {Gron, Aurlien},
+ title = {Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems},
+ year = {2017},
+ isbn = {1491962291, 9781491962299},
+ edition = {1st},
+ publisher = {O'Reilly Media, Inc.},
+} 
