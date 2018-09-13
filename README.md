@@ -13,8 +13,6 @@
 3. Execute 'pipenv install'
 4. Afterwards execute 'pipenv install jupyter'
 
-End with an example of getting some data out of the system or using it for a little demo
-
 ## Starting the exercises
 
 1. Open a terminal
