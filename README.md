@@ -3,24 +3,25 @@
 
 ## Prerequisites
 
-* Python 2.7
+* Python 3.6
 * Pipenv (https://pypi.org/project/pipenv/)
 
 #### Ubuntu
 ```
 sudo apt update
 # Install pip
-sudo apt install python-pip
+sudo apt install python3-pip
 # Install pipenv
-pip install --user pipenv
+pip3 install --user pipenv
 ```
 #### MacOS
+To set python to 3.6 follow [this guide](https://opensource.com/article/19/5/python-3-default-mac)
 ```
 # Install pipenv
 brew install pipenv
 ```
 #### Windows
-Make sure to have Python 2.7 installed. Download the [pip installer script](https://bootstrap.pypa.io/get-pip.py). Then open the CMD and navigate to the downloaded script.
+Make sure to have Python 3.6 installed. Download the [pip installer script](https://bootstrap.pypa.io/get-pip.py). Then open the CMD and navigate to the downloaded script.
 ```
 :: Install pip package manager
 python get-pip.py
