@@ -44,3 +44,7 @@ pip install --user pipenv
 4. Afterwards execute `jupyter notebook`
 5. A browser should open the link which is shown in the terminal
 6. Open the *Exercises.ipynb* notebook
+
+## Walkthrough
+
+Find additional explanations and solutions [here](https://ease-crc.org/material/ease/machinelearning).
